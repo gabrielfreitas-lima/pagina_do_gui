@@ -13,7 +13,7 @@ body {
 }
 
 table, th, tr, td {
-    width: 65%;
+    width: 45%;
     height: 20%;
     text-align: left;
     border: solid 2px black;
